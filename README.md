@@ -1,6 +1,6 @@
 # 🚀 EPLC Fullstack Test - JavaScript Edition
 
-Halo! 👋 Ini adalah solusi untuk tes teknis manipulasi array menggunakan JavaScript, tanpa fungsi bawaan seperti `array_merge`, `push`, atau `sort`.
+Ini adalah solusi untuk tes teknis manipulasi array menggunakan JavaScript, tanpa fungsi bawaan seperti `array_merge`, `push`, atau `sort`.
 
 ## Struktur File
 
@@ -22,6 +22,6 @@ Pastikan  sudah menginstall **Node.js**
    - Angka yang hilang (missing data)
    - Hasil akhir setelah angka yang hilang dimasukkan
 
-## 📝 Catatan Implementasi
+## Catatan Implementasi
 
 Kode ini murni menggunakan logika algoritma dasar (seperti Bubble Sort dan loop manual) untuk memenuhi syarat **tidak menggunakan fungsi bawaan PHP/JS**
